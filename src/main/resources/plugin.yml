@@ -1,0 +1,5 @@
+name: DragonCrystal
+version: ${project.version}
+main: dev.mruniverse.dragoncrystal.DragonCrystal
+authors: [ MrUniverse44 ]
+description: Prevent block break and explosion damage on Crystal generation
